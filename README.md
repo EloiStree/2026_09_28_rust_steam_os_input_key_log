@@ -11,4 +11,5 @@ This should be an interesting experiment.
 The goal is to explore SteamOS tools and APIs on the Frame and determine whether input can be captured by a background service and forwarded to GOMI or another application.
 The longer-term idea is to use this as a foundation for experimenting with macro functionality.
 
-This is strictly a white-hat project for research and experimentation. I'm not trying to build anything intended for illegal o
+This is strictly a white-hat project for research and experimentation. 
+I'm not trying to build anything intended for illegal use.
